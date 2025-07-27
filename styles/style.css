@@ -92,6 +92,7 @@
    line-height: 4.37rem;
    color: var(--primary-color);
    margin-bottom: 1rem;
+   margin-top: 145px;
 }
 
 .banner-des
@@ -111,8 +112,10 @@
 }
 .banner
 {
-    justify-content: space-around;
-
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-right: 132px;
+    
 }
 
 .banner-img
@@ -120,6 +123,7 @@
     width: 475px;
     height: 475px;
     background-image: url(../images/Circle\ design.svg);
+    margin-top: 50px;
 }
 
 
@@ -241,9 +245,10 @@
    .products-tittle {
       font-size: 1.75rem;
       margin-bottom: 30px;
-      font-weight: bold;
+      font-weight: 600;
       text-align: center;
       font-family: var(--font-family);
+      color: #3A3A3A;
     }
 
     .products-items 
